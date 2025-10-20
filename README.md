@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+phucdevz's+GitHub!;Coding+with+passion+%F0%9F%94%A5;Let%E2%80%99s+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+obitodevz's+GitHub!;Coding+with+passion+%F0%9F%94%A5;Let%E2%80%99s+build+something+amazing!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi , I'm Obitodevz</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/phucdevz?label=Follow&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/phucdevz?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/obitodevz?label=Follow&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/obitodevz?style=social" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 
 <p align="center">
   <b>“The best way to predict the future is to invent it.”</b> <br>
-  <em>- Phucdevz -</em>
+  <em>- Obitodevz -</em>
 </p>
 
 
