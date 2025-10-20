@@ -19,7 +19,7 @@
 - I’m currently working on modern **Front-end projects** using React, Next.js & TypeScript  
 - Learning **UI/UX Design**, **GSAP**, **Framer Motion** for animations  
 - Ask me about **React**, **Tailwind**, **Next.js**, **CSS tricks**  
-- Fun fact: I can debug with coffee ☕ faster than Chrome DevTools
+- Fun fact: I can debug with coffee faster than Chrome DevTools
 
 ---
 
